@@ -3,6 +3,14 @@
 Este projeto foi um desafio do site front-end mentor, onde o objetivo era criar uma landing page responsiva.
 
 <div>
+    Deploy:
+     <a href="https://blog-qugskx6ft-messias-projects-38322665.vercel.app/" >
+       https://blog-qugskx6ft-messias-projects-38322665.vercel.app/
+    </a>
+   
+</div><br>
+
+<div>
    <img align="center" alt="" src="https://github.com/Dev-Messias/blog/blob/main/src/assets/images/imgTela.png" />
 </div>
 
