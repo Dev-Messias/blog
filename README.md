@@ -4,8 +4,8 @@ Este projeto foi um desafio do site front-end mentor, onde o objetivo era criar 
 
 <div>
     Deploy:
-     <a href="https://blog-qugskx6ft-messias-projects-38322665.vercel.app/" >
-       https://blog-qugskx6ft-messias-projects-38322665.vercel.app/
+     <a href="https://blog-azure-seven-44.vercel.app/" >
+       https://blog-azure-seven-44.vercel.app/
     </a>
    
 </div><br>
