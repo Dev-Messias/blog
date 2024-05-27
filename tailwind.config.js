@@ -11,7 +11,8 @@ export default {
       },
       backgroundImage:{
         'imgInicio': "url('./src/assets/images/bg-pattern-intro-desktop.svg')",
-        'imgMobile': "url('./src/assets/images/bg-pattern-intro-mobile.svg')"
+        'imgMobile': "url('./src/assets/images/bg-pattern-intro-mobile.svg')",
+        "imgRoud": "url('./src/assets/images/bg-pattern-circles.svg')",
       }
     },
   },

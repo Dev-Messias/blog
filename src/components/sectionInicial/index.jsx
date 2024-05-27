@@ -1,5 +1,5 @@
 
- function SectionInicial() {
+function SectionInicial() {
     return (
         <section class="w-full h-screen rounded-bl-[120px] flex items-center justify-center bg-gradient-to-r from-red-400 to-red-400" >
             <div className=" w-full h-screen bg-imgInicio bg-cover md:bg-auto bg-no-repeat bg-left flex flex-col items-center justify-center " >
